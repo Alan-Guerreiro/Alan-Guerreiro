@@ -34,15 +34,12 @@ Goals
 
 I am currently seeking my first opportunity in the IT industry, with interests in:
 
-Software Development
-Quality Assurance (QA)
-Technical Support
-Embedded Systems
-Automation and IoT
+Software Development | Quality Assurance (QA) | Technical Support | Embedded Systems | Automation and IoT
 
-Languages
-Portuguese (Native)
-English (B2 – Upper Intermediate)
+Languages:
+
+Portuguese (Native) | English (B2 – Upper Intermediate)
 
 ## Contact
+
 📧 alanguerreiro360@gmail.com
