@@ -10,14 +10,7 @@ Python | SQL | Git & GitHub | Software Development
 
 Technologies:
 
-C
-C++
-Arduino
-Git
-GitHub
-Hardware
-Electronics
-Industrial Automation
+C | C++ | Arduino | Git | GitHub | Hardware | Electronics | Industrial Automation
 
 Featured Projects:
 
