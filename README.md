@@ -6,10 +6,7 @@ I have experience developing projects involving automation, Arduino, electronics
 
 Currently, I am expanding my skills in:
 
-Python
-SQL
-Git & GitHub
-Software Development
+Python | SQL | Git & GitHub | Software Development
 
 Technologies:
 
